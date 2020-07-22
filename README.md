@@ -3,4 +3,4 @@ React app that allows for sign in authentication (Firebase) and addition of task
 
 Link: http://manager.epizy.com/signin
 
-![](estateproperties.png)
+![](taskmanager.png)
